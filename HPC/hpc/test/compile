@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./a.out A B 10 100 0
+./a.out B C 100 1000 1

@@ -1,0 +1,1 @@
+gcc -O0 searching_sequential.c -o o0_compile.out

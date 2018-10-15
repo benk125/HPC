@@ -1,0 +1,7 @@
+Pattern_text_Generator.c will generate a data folder if not made.
+
+./compile will take in 5 parameters ( CHAR 1 , CHAR 2 , pattern_length , text length , Test Number)
+
+compile pattern_text_generator.c and run ./compile to create 20 different case test files in data . It wont remake folders if they exist to save resources to ifyou want a complete refresh delete the entire data folder and contents. 
+
+

@@ -1,0 +1,159 @@
+Read test number 0
+Text length = 1000000
+Pattern length = 1
+Pattern found at position 999999
+# comparisons = 1000000
+Test 0 elapsed wall clock time = 0
+Test 0 elapsed CPU time = 0.001294
+
+Read test number 1
+Text length = 100000
+Pattern length = 10
+Pattern found at position 99990
+# comparisons = 999910
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.001321
+
+Read test number 2
+Text length = 10000
+Pattern length = 100
+Pattern found at position 9900
+# comparisons = 990100
+Test 2 elapsed wall clock time = 0
+Test 2 elapsed CPU time = 0.001326
+
+Read test number 3
+Text length = 1000
+Pattern length = 1000
+Pattern found at position 0
+# comparisons = 1000
+Test 3 elapsed wall clock time = 0
+Test 3 elapsed CPU time = 0.000018
+
+Read test number 4
+Text length = 25000
+Pattern length = 4000
+Pattern found at position 21000
+# comparisons = 84004000
+Test 4 elapsed wall clock time = 0
+Test 4 elapsed CPU time = 0.112590
+
+Read test number 5
+Text length = 10000000
+Pattern length = 10
+Pattern found at position 9999990
+# comparisons = 99999910
+Test 5 elapsed wall clock time = 1
+Test 5 elapsed CPU time = 0.134702
+
+Read test number 6
+Text length = 1000000
+Pattern length = 100
+Pattern found at position 999900
+# comparisons = 99990100
+Test 6 elapsed wall clock time = 0
+Test 6 elapsed CPU time = 0.138392
+
+Read test number 7
+Text length = 100000
+Pattern length = 1000
+Pattern found at position 99000
+# comparisons = 99001000
+Test 7 elapsed wall clock time = 0
+Test 7 elapsed CPU time = 0.131451
+
+Read test number 8
+Text length = 250000
+Pattern length = 40000
+Pattern found at position 210000
+# comparisons = 8400040000
+Test 8 elapsed wall clock time = 13
+Test 8 elapsed CPU time = 11.320453
+
+Read test number 9
+Text length = 200000
+Pattern length = 50000
+Pattern found at position 150000
+# comparisons = 7500050000
+Test 9 elapsed wall clock time = 11
+Test 9 elapsed CPU time = 10.139163
+
+Read test number 10
+Text length = 800000
+Pattern length = 12500
+Pattern found at position 787500
+# comparisons = 9843762500
+Test 10 elapsed wall clock time = 15
+Test 10 elapsed CPU time = 13.416265
+
+Read test number 11
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 9999000
+# comparisons = 9999001000
+Test 11 elapsed wall clock time = 18
+Test 11 elapsed CPU time = 13.483744
+
+Read test number 12
+Text length = 10000
+Pattern length = 1
+Pattern found at position 9999
+# comparisons = 10000
+Test 12 elapsed wall clock time = 0
+Test 12 elapsed CPU time = 0.000029
+
+Read test number 13
+Text length = 1000
+Pattern length = 10
+Pattern found at position 990
+# comparisons = 9910
+Test 13 elapsed wall clock time = 0
+Test 13 elapsed CPU time = 0.000030
+
+Read test number 14
+Text length = 100
+Pattern length = 100
+Pattern found at position 0
+# comparisons = 100
+Test 14 elapsed wall clock time = 0
+Test 14 elapsed CPU time = 0.000017
+
+Read test number 15
+Text length = 10
+Pattern length = 1000
+Pattern not found
+# comparisons = 0
+Test 15 elapsed wall clock time = 0
+Test 15 elapsed CPU time = 0.000019
+
+Read test number 16
+Text length = 100
+Pattern length = 1
+Pattern found at position 99
+# comparisons = 100
+Test 16 elapsed wall clock time = 0
+Test 16 elapsed CPU time = 0.000016
+
+Read test number 17
+Text length = 10
+Pattern length = 10
+Pattern found at position 0
+# comparisons = 10
+Test 17 elapsed wall clock time = 0
+Test 17 elapsed CPU time = 0.000018
+
+Read test number 18
+Text length = 1
+Pattern length = 100
+Pattern not found
+# comparisons = 0
+Test 18 elapsed wall clock time = 0
+Test 18 elapsed CPU time = 0.000017
+
+Read test number 19
+Text length = 25
+Pattern length = 4
+Pattern found at position 21
+# comparisons = 88
+Test 19 elapsed wall clock time = 0
+Test 19 elapsed CPU time = 0.000017

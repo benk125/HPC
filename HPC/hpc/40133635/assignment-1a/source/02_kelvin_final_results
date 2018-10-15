@@ -1,0 +1,183 @@
+=======================================================
+SGE job submitted on Mon Oct 15 16:06:30 BST 2018
+JOB ID: 242655
+JOB NAME: jobscript.sh
+PE: smp-verbose
+QUEUE: byslot.q
+MASTER node048.prv.kelvin.compute.estate
+=======================================================
+
+** A machine file has been written to /tmp/sge.machines.242655 on node048.prv.kelvin.compute.estate **
+
+=======================================================
+If an output file was specified on job submission
+Job Output Follows:
+=======================================================
+
+Mon Oct 15 16:06:30 BST 2018
+Starting new job
+Read test number 0
+Text length = 1000000
+Pattern length = 1
+Pattern found at position 999999
+# comparisons = 1000000
+elapsed time = 1.109298000000000098200e-03 Seconds
+elapsed process CPU time = 1.109242000000000083829e-03 Seconds
+
+Read test number 1
+Text length = 100000
+Pattern length = 10
+Pattern found at position 99990
+# comparisons = 999910
+elapsed time = 1.029589999999999932329e-03 Seconds
+elapsed process CPU time = 1.029909999999999983475e-03 Seconds
+
+Read test number 2
+Text length = 10000
+Pattern length = 100
+Pattern found at position 9900
+# comparisons = 990100
+elapsed time = 1.112434000000000035649e-03 Seconds
+elapsed process CPU time = 1.112879999999999902291e-03 Seconds
+
+Read test number 3
+Text length = 1000
+Pattern length = 1000
+Pattern found at position 0
+# comparisons = 1000
+elapsed time = 2.201000000000000187333e-06 Seconds
+elapsed process CPU time = 2.050999999999999929423e-06 Seconds
+
+Read test number 4
+Text length = 10000000
+Pattern length = 10
+Pattern found at position 9999990
+# comparisons = 99999910
+elapsed time = 9.160831899999999361484e-02 Seconds
+elapsed process CPU time = 9.165919200000000044426e-02 Seconds
+
+Read test number 5
+Text length = 1000000
+Pattern length = 100
+Pattern found at position 999900
+# comparisons = 99990100
+elapsed time = 9.920968700000000473072e-02 Seconds
+elapsed process CPU time = 9.926508900000000079622e-02 Seconds
+
+Read test number 6
+Text length = 200000
+Pattern length = 500
+Pattern found at position 199500
+# comparisons = 99750500
+elapsed time = 9.327968700000000001893e-02 Seconds
+elapsed process CPU time = 9.333182600000000661566e-02 Seconds
+
+Read test number 7
+Text length = 100000
+Pattern length = 1000
+Pattern found at position 99000
+# comparisons = 99001000
+elapsed time = 9.232846399999999897901e-02 Seconds
+elapsed process CPU time = 9.237649100000000501609e-02 Seconds
+
+Read test number 8
+Text length = 20000000
+Pattern length = 500
+Pattern found at position 19999500
+# comparisons = 9999750500
+elapsed time = 9.348711341999999646646e+00 Seconds
+elapsed process CPU time = 9.353803356000000235326e+00 Seconds
+
+Read test number 9
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 9999000
+# comparisons = 9999001000
+elapsed time = 9.263004267999999541416e+00 Seconds
+elapsed process CPU time = 9.267943486000000063996e+00 Seconds
+
+Read test number 10
+Text length = 2000000
+Pattern length = 5000
+Pattern found at position 1995000
+# comparisons = 9975005000
+elapsed time = 9.204709502000000043154e+00 Seconds
+elapsed process CPU time = 9.209780084000000144329e+00 Seconds
+
+Read test number 11
+Text length = 1000000
+Pattern length = 10000
+Pattern found at position 990000
+# comparisons = 9900010000
+elapsed time = 9.113654654999999493725e+00 Seconds
+elapsed process CPU time = 9.118486899000000533988e+00 Seconds
+
+Read test number 12
+Text length = 10000
+Pattern length = 1
+Pattern found at position 9999
+# comparisons = 10000
+elapsed time = 1.423600000000000057976e-05 Seconds
+elapsed process CPU time = 1.360100000000000073025e-05 Seconds
+
+Read test number 13
+Text length = 2000
+Pattern length = 5
+Pattern found at position 1995
+# comparisons = 9980
+elapsed time = 1.184400000000000044236e-05 Seconds
+elapsed process CPU time = 1.168899999999999938529e-05 Seconds
+
+Read test number 14
+Text length = 1000
+Pattern length = 10
+Pattern found at position 990
+# comparisons = 9910
+elapsed time = 1.475799999999999998651e-05 Seconds
+elapsed process CPU time = 1.457200000000000041209e-05 Seconds
+
+Read test number 15
+Text length = 100
+Pattern length = 100
+Pattern found at position 0
+# comparisons = 100
+elapsed time = 1.439999999999999977189e-06 Seconds
+elapsed process CPU time = 1.252000000000000040753e-06 Seconds
+
+Read test number 16
+Text length = 100
+Pattern length = 1
+Pattern found at position 99
+# comparisons = 100
+elapsed time = 1.322000000000000005822e-06 Seconds
+elapsed process CPU time = 1.145999999999999912142e-06 Seconds
+
+Read test number 17
+Text length = 50
+Pattern length = 2
+Pattern found at position 48
+# comparisons = 98
+elapsed time = 1.393999999999999909390e-06 Seconds
+elapsed process CPU time = 1.252000000000000040753e-06 Seconds
+
+Read test number 18
+Text length = 20
+Pattern length = 5
+Pattern found at position 15
+# comparisons = 80
+elapsed time = 1.221000000000000041097e-06 Seconds
+elapsed process CPU time = 1.072999999999999933445e-06 Seconds
+
+Read test number 19
+Text length = 10
+Pattern length = 10
+Pattern found at position 0
+# comparisons = 10
+elapsed time = 1.046000000000000022547e-06 Seconds
+elapsed process CPU time = 9.150000000000000274159e-07 Seconds
+
+Finished job
+Mon Oct 15 16:07:08 BST 2018
+==================================================
+SGE job completed on Mon Oct 15 16:07:08 BST 2018
+==================================================
