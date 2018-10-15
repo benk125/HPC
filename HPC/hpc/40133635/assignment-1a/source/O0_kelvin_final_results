@@ -1,183 +1,183 @@
 =======================================================
-SGE job submitted on Mon Oct 15 16:12:35 BST 2018
-JOB ID: 242665
+SGE job submitted on Mon Oct 15 18:43:19 BST 2018
+JOB ID: 242750
 JOB NAME: jobscript.sh
 PE: smp-verbose
 QUEUE: byslot.q
-MASTER node058.prv.kelvin.compute.estate
+MASTER node041.prv.kelvin.compute.estate
 =======================================================
 
-** A machine file has been written to /tmp/sge.machines.242665 on node058.prv.kelvin.compute.estate **
+** A machine file has been written to /tmp/sge.machines.242750 on node041.prv.kelvin.compute.estate **
 
 =======================================================
 If an output file was specified on job submission
 Job Output Follows:
 =======================================================
 
-Mon Oct 15 16:12:35 BST 2018
+Mon Oct 15 18:43:19 BST 2018
 Starting new job
 Read test number 0
 Text length = 1000000
 Pattern length = 1
 Pattern found at position 999999
 # comparisons = 1000000
-elapsed time = 1.238189599999999987445e-02 Seconds
-elapsed process CPU time = 1.238785599999999917364e-02 Seconds
+elapsed time = 3.403540000000000037561e-03 Seconds
+elapsed process CPU time = 3.404757999999999916463e-03 Seconds
 
 Read test number 1
 Text length = 100000
 Pattern length = 10
 Pattern found at position 99990
 # comparisons = 999910
-elapsed time = 1.237155300000000041072e-02 Seconds
-elapsed process CPU time = 1.237852000000000049496e-02 Seconds
+elapsed time = 3.291303000000000197195e-03 Seconds
+elapsed process CPU time = 3.292844999999999973384e-03 Seconds
 
 Read test number 2
 Text length = 10000
 Pattern length = 100
 Pattern found at position 9900
 # comparisons = 990100
-elapsed time = 1.186859099999999951625e-02 Seconds
-elapsed process CPU time = 1.187523199999999945486e-02 Seconds
+elapsed time = 3.397261999999999851352e-03 Seconds
+elapsed process CPU time = 3.398990000000000170910e-03 Seconds
 
 Read test number 3
 Text length = 1000
 Pattern length = 1000
 Pattern found at position 0
 # comparisons = 1000
-elapsed time = 5.309999999999999982059e-06 Seconds
-elapsed process CPU time = 4.874999999999999911746e-06 Seconds
+elapsed time = 4.492000000000000360005e-06 Seconds
+elapsed process CPU time = 4.347000000000000054224e-06 Seconds
 
 Read test number 4
 Text length = 10000000
 Pattern length = 10
 Pattern found at position 9999990
 # comparisons = 99999910
-elapsed time = 1.243624494000000080263e+00 Seconds
-elapsed process CPU time = 1.243756561999999954438e+00 Seconds
+elapsed time = 2.905530499999999793914e-01 Seconds
+elapsed process CPU time = 2.907162240000000230644e-01 Seconds
 
 Read test number 5
 Text length = 1000000
 Pattern length = 100
 Pattern found at position 999900
 # comparisons = 99990100
-elapsed time = 1.278502940000000087650e+00 Seconds
-elapsed process CPU time = 1.278323319000000068968e+00 Seconds
+elapsed time = 3.045321750000000160519e-01 Seconds
+elapsed process CPU time = 3.046982509999999755301e-01 Seconds
 
 Read test number 6
 Text length = 200000
 Pattern length = 500
 Pattern found at position 199500
 # comparisons = 99750500
-elapsed time = 1.245805778000000030303e+00 Seconds
-elapsed process CPU time = 1.245531952999999969478e+00 Seconds
+elapsed time = 2.909649349999999801142e-01 Seconds
+elapsed process CPU time = 2.911250879999999763292e-01 Seconds
 
 Read test number 7
 Text length = 100000
 Pattern length = 1000
 Pattern found at position 99000
 # comparisons = 99001000
-elapsed time = 1.223149086000000052010e+00 Seconds
-elapsed process CPU time = 1.223636176999999936044e+00 Seconds
+elapsed time = 2.864949829999999808550e-01 Seconds
+elapsed process CPU time = 2.866563169999999938220e-01 Seconds
 
 Read test number 8
 Text length = 20000000
 Pattern length = 500
 Pattern found at position 19999500
 # comparisons = 9999750500
-elapsed time = 1.231232043669999995927e+02 Seconds
-elapsed process CPU time = 1.231789908700000069075e+02 Seconds
+elapsed time = 2.914471214199999948846e+01 Seconds
+elapsed process CPU time = 2.916098380300000059151e+01 Seconds
 
 Read test number 9
 Text length = 10000000
 Pattern length = 1000
 Pattern found at position 9999000
 # comparisons = 9999001000
-elapsed time = 1.218993446040000065977e+02 Seconds
-elapsed process CPU time = 1.219604296760000039512e+02 Seconds
+elapsed time = 2.896323966599999977234e+01 Seconds
+elapsed process CPU time = 2.897940664300000079834e+01 Seconds
 
 Read test number 10
 Text length = 2000000
 Pattern length = 5000
 Pattern found at position 1995000
 # comparisons = 9975005000
-elapsed time = 1.213183864380000045458e+02 Seconds
-elapsed process CPU time = 1.213736675709999985884e+02 Seconds
+elapsed time = 2.870654817799999847239e+01 Seconds
+elapsed process CPU time = 2.872258770199999844408e+01 Seconds
 
 Read test number 11
 Text length = 1000000
 Pattern length = 10000
 Pattern found at position 990000
 # comparisons = 9900010000
-elapsed time = 1.222146454129999995075e+02 Seconds
-elapsed process CPU time = 1.222510023210000014160e+02 Seconds
+elapsed time = 2.851798044699999934437e+01 Seconds
+elapsed process CPU time = 2.853392107299999835845e+01 Seconds
 
 Read test number 12
 Text length = 10000
 Pattern length = 1
 Pattern found at position 9999
 # comparisons = 10000
-elapsed time = 1.049289999999999977495e-04 Seconds
-elapsed process CPU time = 1.043279999999999945251e-04 Seconds
+elapsed time = 3.459599999999999876904e-05 Seconds
+elapsed process CPU time = 3.433800000000000225567e-05 Seconds
 
 Read test number 13
 Text length = 2000
 Pattern length = 5
 Pattern found at position 1995
 # comparisons = 9980
-elapsed time = 3.495000000000000249479e-05 Seconds
-elapsed process CPU time = 3.477900000000000023566e-05 Seconds
+elapsed time = 3.343600000000000309905e-05 Seconds
+elapsed process CPU time = 3.330900000000000245153e-05 Seconds
 
 Read test number 14
 Text length = 1000
 Pattern length = 10
 Pattern found at position 990
 # comparisons = 9910
-elapsed time = 3.484800000000000245494e-05 Seconds
-elapsed process CPU time = 3.454800000000000193912e-05 Seconds
+elapsed time = 3.319800000000000300606e-05 Seconds
+elapsed process CPU time = 3.313099999999999839594e-05 Seconds
 
 Read test number 15
 Text length = 100
 Pattern length = 100
 Pattern found at position 0
 # comparisons = 100
-elapsed time = 1.873999999999999972373e-06 Seconds
-elapsed process CPU time = 1.613000000000000057240e-06 Seconds
+elapsed time = 1.565000000000000050942e-06 Seconds
+elapsed process CPU time = 1.447999999999999942946e-06 Seconds
 
 Read test number 16
 Text length = 100
 Pattern length = 1
 Pattern found at position 99
 # comparisons = 100
-elapsed time = 2.034999999999999997910e-06 Seconds
-elapsed process CPU time = 1.712999999999999946836e-06 Seconds
+elapsed time = 1.487999999999999983487e-06 Seconds
+elapsed process CPU time = 1.385999999999999943634e-06 Seconds
 
 Read test number 17
 Text length = 50
 Pattern length = 2
 Pattern found at position 48
 # comparisons = 98
-elapsed time = 4.047000000000000385436e-06 Seconds
-elapsed process CPU time = 3.595999999999999960094e-06 Seconds
+elapsed time = 1.594999999999999975469e-06 Seconds
+elapsed process CPU time = 1.480000000000000017731e-06 Seconds
 
 Read test number 18
 Text length = 20
 Pattern length = 5
 Pattern found at position 15
 # comparisons = 80
-elapsed time = 4.120299999999999836101e-05 Seconds
-elapsed process CPU time = 4.078199999999999680140e-05 Seconds
+elapsed time = 1.376000000000000039377e-06 Seconds
+elapsed process CPU time = 1.252000000000000040753e-06 Seconds
 
 Read test number 19
 Text length = 10
 Pattern length = 10
 Pattern found at position 0
 # comparisons = 10
-elapsed time = 1.249000000000000027125e-06 Seconds
-elapsed process CPU time = 1.043000000000000008918e-06 Seconds
+elapsed time = 1.086999999999999926459e-06 Seconds
+elapsed process CPU time = 9.739999999999999072203e-07 Seconds
 
 Finished job
-Mon Oct 15 16:20:50 BST 2018
+Mon Oct 15 18:45:16 BST 2018
 ==================================================
-SGE job completed on Mon Oct 15 16:20:50 BST 2018
+SGE job completed on Mon Oct 15 18:45:16 BST 2018
 ==================================================
